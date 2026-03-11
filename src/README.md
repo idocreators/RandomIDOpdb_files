@@ -1,1 +1,1 @@
-random idoosmart pdb files
+random idoosmart .so files
